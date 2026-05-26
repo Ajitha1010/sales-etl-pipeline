@@ -1,4 +1,4 @@
-# 📊 Sales ETL Pipeline (Pandas Project)
+# 📊 Sales Analytics ETL Pipeline (Pandas + PySpark + Airflow Concepts)
 
 ## 📌 Overview
 This project is a modular ETL (Extract, Transform, Load) pipeline built using Python and Pandas.  
@@ -16,6 +16,10 @@ The pipeline is designed to handle both good and bad data using a quarantine sys
 - Output storage in Parquet and SQLite
 - Automated daily run simulation using scheduler script
 - Modular and production-style Python structure
+- PySpark transformations
+- Spark SQL aggregations
+- Airflow DAG orchestration concepts
+- Distributed data processing workflow
 
 
 ## 🏗️ Pipeline Architecture
