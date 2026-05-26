@@ -1,3 +1,6 @@
 pandas
 numpy
 sqlite3
+pyspark
+apache-airflow
+jupyter

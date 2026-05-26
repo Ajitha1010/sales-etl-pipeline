@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
 output/
+airflow_env/
 .env
 .DS_Store
